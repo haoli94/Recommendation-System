@@ -5,4 +5,4 @@ Training Errors for Batch Gradient Descent, Stochastic Gradient Descent & Mini-B
 
 ![image](https://github.com/haoli94/Recommendation-System/blob/master/Mining%20Data%20Streams/largeDataLogErrors.png)
 
-Log Relative Errors v.s. Log Word Frequency
+Log Relative Errors v.s. Log Word Frequency for mining 
